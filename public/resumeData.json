@@ -4,7 +4,7 @@
     "occupation": "ReactJS Developer && Technical Lead at EY",
     "description": "Full Stack Web Developer, programmer by passion",
     "image": "IG_Rakshith.jpg",
-    "bio": "My name is Rakshith Raj, I'm a Full Stack Web Developer. Currently I'm working at Ernst and Young as Senior Technical Lead",
+    "bio": "My name is Rakshith Raj, I'm a Full Stack Web Developer working in Ernst & Young as a Senior Technical Lead engineer",
     "contactmessage": "Get in touch with me to receive further details, get your project done or anything else.",
     "email": "matrixrak@gmail.com",
     "phone": "+918073692217",
@@ -101,10 +101,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "Covid Tracker App",
+        "category": "A Covid Tracker app for recent events globally, built with ReactJS using LeafLet maps",
+        "image": "covid-portfolio-app.PNG",
+        "url": "https://covid-19-tracker-8cdf4.web.app/"
+      },
+      {
+        "title": "Netflix Clone app",
+        "category": "Not a commerical one but hobbiest app to showcase my ReactJS, HTML, CSS and BE integration skills",
+        "image": "Netflix-clone-app.PNG",
+        "url": "https://netflix-clone-5966a.web.app/"
       }
     ]
   },
