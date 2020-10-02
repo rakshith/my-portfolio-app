@@ -73,6 +73,14 @@
         "level": "100%"
       },
       {
+        "name":"React-Native",
+        "level": "70%"
+      },
+      {
+        "name":"Android",
+        "level": "60%"
+      },
+      {
         "name": "NodeJS",
         "level": "70%"
       },
