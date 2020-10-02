@@ -73,11 +73,11 @@
         "level": "100%"
       },
       {
-        "name":"React-Native",
+        "name": "React-Native",
         "level": "70%"
       },
       {
-        "name":"Android",
+        "name": "Android",
         "level": "60%"
       },
       {
@@ -119,6 +119,18 @@
         "category": "Not a commerical one but hobbiest app to showcase my ReactJS, HTML, CSS and BE integration skills",
         "image": "Netflix-clone-app.PNG",
         "url": "https://netflix-clone-5966a.web.app/"
+      },
+      {
+        "title": "Crown Clothing App",
+        "category": "A sample eCommerce store showcases common feature like checkout and purhcase, including offline cahe of page",
+        "image": "crwn-clothing-app.PNG",
+        "url": "https://crwn-db-7861f.web.app/"
+      },
+      {
+        "title": "Amazon shopping app",
+        "category": "A amazon shopping cart describes about the CSS, HTML and ReactJS tips and tricks including the design",
+        "image": "amazon-clone-app.PNG",
+        "url": "https://clone-fcc6b.web.app/"
       }
     ]
   },
