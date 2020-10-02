@@ -4,7 +4,7 @@
     "occupation": "ReactJS Developer && Technical Lead at EY",
     "description": "Full Stack Web Developer, programmer by passion",
     "image": "IG_Rakshith.jpg",
-    "bio": "My name is Rakshith Raj, I'm a Full Stack Web Developer. Currently I'm working at Ernst and Young as Senior Technical Lead ",
+    "bio": "My name is Rakshith Raj, I'm a Full Stack Web Developer. Currently I'm working at Ernst and Young as Senior Technical Lead",
     "contactmessage": "Get in touch with me to receive further details, get your project done or anything else.",
     "email": "matrixrak@gmail.com",
     "phone": "+918073692217",
@@ -19,17 +19,17 @@
     "social": [
       {
         "name": "facebook",
-        "url": "",
+        "url": "https://www.facebook.com/rakshith.raj.s",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/rakshith-raj-shivaram-27447324/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "",
+        "url": "https://www.instagram.com/rakshith.raj.s",
         "className": "fa fa-instagram"
       },
       {
