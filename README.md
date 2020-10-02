@@ -1,2 +1,2 @@
 # my-portfolio-app
-This is my professional portofio resume app
+This is my professional portfolio resume app
